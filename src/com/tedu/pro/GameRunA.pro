@@ -1,0 +1,13 @@
+001=enemyMoveX,enemyA,enemyFire01,-60,40,60,60,200,0 
+002=enemyMoveX,enemyA,enemyFire01,560,20,85,75,210,0
+003=enemyMoveY,enemyB,enemyFire02,200,-70,60,60,220,0
+004=enemyMoveY,enemyB,enemyFire03,400,850,50,60,230,0
+005=enemyMoveSlash,enemyE,enemyFire04,-10,-10,50,60,240,0
+006=enemyMoveSlash,enemyE,enemyFire02,850,-10,60,60,250,0
+007=enemyMoveSlash,enemyE,enemyFire03,850,850,85,75,260,0
+008=enemyMoveSlash,enemyE,enemyFire03,-10,850,85,75,270,0
+009=enemyMoveParabolic,enemyF,enemyFire04,-10,850,60,60,280,0
+010=enemyMoveParabolic,enemyF,enemyFire04,850,850,60,60,290,0
+011=enemyMoveParabolic,enemyC,enemyFire04,-10,-10,60,60,300,0
+012=enemyMoveParabolic,enemyC,enemyFire04,850,-10,60,60,310,0
+013=bossA,boss01,bossFire01,100,-200,300,250,320,1

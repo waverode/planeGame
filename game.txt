@@ -1,0 +1,5 @@
+规约   包，类
+1.包：
+com.tedu.frame  界面，窗体包
+
+com.tedu.thread  控制，坚挺，线程等
